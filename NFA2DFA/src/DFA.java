@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * @author JM0011
+ */
 public class DFA {
     private List<Key> move = new ArrayList<>();
     private Integer so;

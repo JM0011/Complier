@@ -2,6 +2,7 @@ import java.util.List;
 
 /**
  * 标记注册
+ * @author JM0011
  */
 public class Dstate {
     private List<Integer> T;

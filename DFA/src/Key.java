@@ -1,5 +1,6 @@
-
-
+/**
+ * @author JM0011
+ */
 public class Key {
     private Integer param1;
     private char param2;

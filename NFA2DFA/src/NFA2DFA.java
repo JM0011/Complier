@@ -1,7 +1,9 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
-
+/**
+ * @author JM0011
+ */
 public class NFA2DFA {
     private NFA nfa;
     private char[] chars;

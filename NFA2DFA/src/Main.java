@@ -1,6 +1,7 @@
-
+/**
+ * @author JM0011
+ */
 public class Main {
-
     public static void main(String[] args) {
         NFA nfa = new NFA();
         NFA2DFA nfa2DFA = new NFA2DFA(nfa);

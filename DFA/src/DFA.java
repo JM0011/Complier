@@ -1,5 +1,9 @@
 import java.util.*;
 
+
+/**
+ * @author JM0011
+ */
 public class DFA {
 
     private List<Key> move = new ArrayList<>();

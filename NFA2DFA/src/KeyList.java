@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * @author JM0011
+ */
 public class KeyList {
     private List<Integer> param1 = new ArrayList<>();
     private char param2;
